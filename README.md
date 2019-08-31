@@ -1,6 +1,6 @@
 
 # mmorpg-js
-Jogo criado com NodeJS+express+Phaser  no estilo MMORPG
+Jogo criado com NodeJS+express+Phaser  no estilo MMORPG - 
 
 
 # Pré-requisitos
@@ -17,3 +17,6 @@ Jogo criado com NodeJS+express+Phaser  no estilo MMORPG
 
 ## Execute o app.js com:
     node app.js
+
+
+Tutorial base do projeto foi tirado do site: https://phaser.io/
