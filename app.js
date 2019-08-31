@@ -14,7 +14,7 @@ const asyncMiddleware = require('./middleware/asyncMiddleware');
 const ChatModel = require('./models/chatModel');
 
 // setup mongo connection
-mongoose.connect('mongodb+srv://admin:admin@cluster0-jl0x6.mongodb.net/mmorpg?retryWrites=true&w=majority', {
+mongoose.connect('', {
     useNewUrlParser: true
 });
 mongoose.connection.on('error', (error) => {
